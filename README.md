@@ -1,6 +1,6 @@
 Hotel Booking Analysis - Exploratory Data Analysis (EDA)
 GitHub
-GitHub Link: Hotel Booking Analysis Repository
+GitHub Link: [Hotel Booking Analysis Repository](https://github.com/sankalp69/Hotel-Booking)
 
 📌 Project Overview
 This project analyzes hotel booking data to uncover patterns, trends, and factors influencing booking cancellations. The dataset includes 119,390 entries with 32 features, covering bookings for both Resort Hotels and City Hotels from 2015 to 2017. The goal is to provide actionable insights to optimize hotel operations, reduce cancellations, and enhance profitability.
