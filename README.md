@@ -76,7 +76,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/sankalp69/EDA_Hotel_booking.git
+git clone https://github.com/sankalp69/Hotel-Booking.git
 Install dependencies:
 
 bash
